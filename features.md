@@ -31,3 +31,5 @@ https://github.com/fzaninotto/Faker#fakerproviderdatetime
 
 
 супер пример на гитхаб https://github.com/Booknshelf/booknshelf/tree/master/app
+
+делаю по этому видео https://www.youtube.com/watch?v=RyGgyiQinfw&index=4&list=PLB_Wd4-5SGAb2wqEn0gzRbXDc7_meZmDO
