@@ -1,11 +1,11 @@
 <!doctype html>
 <html lang="en">
-@include('include.head')
+@include('layout.head')
 <body>
-@include('include.header')
+@include('layout.header')
 
 @yield('content')
 
-@include('include.footer')
+@include('layout.footer')
 </body>
 </html>

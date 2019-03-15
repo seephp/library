@@ -14,7 +14,7 @@ class BookController extends Controller
      */
     public function index()
     {
-        //
+        return view('home');
     }
 
     /**
@@ -24,7 +24,7 @@ class BookController extends Controller
      */
     public function create()
     {
-        //
+        return view('book_create');
     }
 
     /**
@@ -35,7 +35,8 @@ class BookController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        echo "<pre>";
+        print_r($request->input());
     }
 
     /**
